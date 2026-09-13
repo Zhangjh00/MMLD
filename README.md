@@ -1,6 +1,6 @@
 # MMLD
 
-![Version](https://img.shields.io/badge/Version-1.0.0-4c1?style=flat)![Release date](https://img.shields.io/badge/Release%20date-Oct.%2012%2C%202026-4c1?style=flat)
+![Version](https://img.shields.io/badge/Version-1.0.0-4c1?style=flat) ![Release date](https://img.shields.io/badge/Release%20date-Oct.%2012%2C%202026-4c1?style=flat)
 
 ## Content
 
