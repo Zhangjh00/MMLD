@@ -1,0 +1,2 @@
+[console_scripts]
+MMLD = src.cli:main

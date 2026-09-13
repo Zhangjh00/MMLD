@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: MMLD
+Version: 0.1.0
+Summary: Microbial community causal analysis toolkit
+Requires-Python: >=3.9
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: networkx
+Requires-Dist: torch
+Requires-Dist: statsmodels
+Provides-Extra: pcmci
+Requires-Dist: tigramite; extra == "pcmci"
+Provides-Extra: lingam
+Requires-Dist: lingam; extra == "lingam"
+Provides-Extra: neural
+Requires-Dist: hybridmetrics; extra == "neural"
+Provides-Extra: pc
+Requires-Dist: causal-learn; extra == "pc"
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
