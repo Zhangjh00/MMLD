@@ -6,7 +6,7 @@
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Input example](#input-tables)
+- [Input example](#input-example)
 - [Usage example](#usage-example)
 - [Command arguments](#command-arguments)
 - [Output files](#output-files)
