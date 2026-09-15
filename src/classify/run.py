@@ -1,4 +1,3 @@
-"""English documentation."""
 import os
 import warnings
 
