@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""English documentation."""
 import argparse
 import os
 import sys
