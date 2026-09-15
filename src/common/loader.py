@@ -1,4 +1,3 @@
-"""English documentation."""
 import warnings
 from pathlib import Path
 
